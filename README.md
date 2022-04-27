@@ -1,7 +1,7 @@
 # stock-simple
 这是一个rainmeter的初尝试！
 
-![img.png](img.png)
+[![LqjsZF.png](https://s1.ax1x.com/2022/04/27/LqjsZF.png)](https://imgtu.com/i/LqjsZF)
 - 插件功能
   - 小国旗
     - 左键单击会循环播放《我爱我的祖国》，红旗开始飘扬
